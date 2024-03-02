@@ -1,1 +1,1 @@
-# SMath-Hacks-2024-Project
+# SMathhacks-2024-Project
