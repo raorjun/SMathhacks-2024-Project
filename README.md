@@ -1,5 +1,5 @@
-# SMathhacks-2024-Project
+# SMathhacks-2024-Project - Croptimizer
 
 ## By: Laira L, Meghan L, Stella H, and Arjun R
 
-Our project is called Croptimizer. We 
+To develop Croptimizer, we used the `scikit-learn` machine learning library.
