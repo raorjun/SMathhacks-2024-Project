@@ -16,4 +16,4 @@ To use Croptimizer, follow the steps below:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-We would like to thank the SMathhacks 2024 organizers for providing us with the opportunity to work on this project.
+We would like to thank the SMathhacks 2024 organizers for providing us with the opportunity to work on this project!
