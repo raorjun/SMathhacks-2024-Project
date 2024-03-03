@@ -13,6 +13,6 @@ To use Croptimizer, follow the steps below:
 3. If you are located in Pakistan, choose "Pakistan Application." This option is specifically made for farmers in Pakistan and will ask to input your state. This data will output feedback regarding recommendations on crops suitable for your soil composition in your regions.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the (LICENSE) file for details.
 
 ## Acknowledgements
