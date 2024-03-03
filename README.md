@@ -8,9 +8,9 @@ Croptimizer leverages the `scikit-learn` machine learning library to build a mod
 
 ## How to Use
 To use Croptimizer, follow the steps below:
-1. If you would like to use the Croptimizer at any area in the world, choose "Predict your Crops" option. Provide your surrounding environmental data and include the temperature, humidity, pH, rainfall, nitrogen, potassium (k), and phosphorous. However, note that this database is based off of data from India. Note that units chosen for potassium and phosphorous need to be consistent throughout the data. This data will output feedback regarding recommendations on crops suitable for your soil composition.
-2. If you are located in Pakistan, choose "Pakistan Application." This option, specifically made for farmers in this location, will ask solely for your state. This data will output feedback regarding recommendations on crops suitable for your soil composition in your regions.
-3. (Calculator)
+1. Provide your surroudning environemntal data using the sliders on the main home page. Include the annual average temperature, humidity, pH, rainfall, nitrogen, potassium (k), and phosphorous.
+2. If you would like to use the Croptimizer at any location in the world, choose "Predict your Crops" option. However, note that this database is based off of data from India. Note that units chosen for potassium and phosphorous need to be consistent throughout the data. This data will output feedback regarding recommendations on crops suitable for your soil composition.
+3. If you are located in Pakistan, choose "Pakistan Application." This option is specifically made for farmers in Pakistan and will ask to input your state. This data will output feedback regarding recommendations on crops suitable for your soil composition in your regions.
 
 ## License
 
