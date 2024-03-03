@@ -369,7 +369,7 @@ with st.expander("Nutrient Additive Calculator"):
             dfRow.iloc[19] * liters) + " mg of Copper sulfate, " + str(
             dfRow.iloc[20] * liters) + " mg of Manganese sulfate, " + str(
             dfRow.iloc[21] * liters) + " mg of Zinc sulfate, and " + str(
-            dfRow.iloc[22] * liters) + " mg of Sodium molybdate."
+            dfRow.iloc[22] * liters) + " mg of Sodium molybdate to make a " + str(liters) + " liter solution."
 
 
     st.write(calcSolution(crop_nut, liters))
