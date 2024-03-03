@@ -26,6 +26,8 @@ st.title("""
 st.write("""
 Welcome to Croptimizer!
 
+By: Laira L, Meghan L, Stella H, & Arjun R
+
 We use machine learning to calculate which crops you should grow based on your conditions. We also include a calculator to find 
 which nutrient additives you should add to your crops. Growing the most favorable crops to your area as well as applying the optimal nutrient
 additives can reduce excess fertilizer and nutrient additives which can lead to higher costs and eutrophication. 
